@@ -4,19 +4,19 @@
 
 ## Step 2:- open cmd terminal
 
-## Step3:- git clone repo_url
+## Step 3:- git clone repo_url
 
 ## Step 5:- open the folder unzip frontend Unzip backend
 
-## Step6:- go back to main folder.
+## Step 6:- go back to main folder.
 
-## Step7:- right click open in terminal
+## Step 7:- right click open in terminal
 
 ## Step 8:- code .
 
-## Step9:- right click & open with liveserver
+## Step 9:- right click & open with liveserver
 
-## Step10:- press alt+L alt+O
+## Step 10:- press alt+L alt+O
 
 
 # OUTPUT:-
